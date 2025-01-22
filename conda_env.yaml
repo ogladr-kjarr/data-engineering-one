@@ -1,0 +1,6 @@
+name: data-engineering-one
+dependencies:
+  - python=3.11.11
+  - pip:
+    - kafka-python==2.0.2
+    - avro==1.8.1
